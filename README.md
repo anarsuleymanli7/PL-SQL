@@ -4,4 +4,4 @@ PL/SQL adds many procedural constructs to SQL language to overcome some limitati
 
 In addition, PL/SQL provides a more comprehensive programming language solution for building mission-critical applications on Oracle Databases.
 
-Various sql schemas are demonstrated in this data warehouse.
+Various PL/SQL schemas are demonstrated in this data warehouse.
